@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 啊！ヾ(≧▽≦*)o
-subtitle: ''
-description: ''
+title: ( • _ • )你是谁呀( • _ • )
+subtitle: '( •_•)>⌐■-■让我带上眼镜看看看(⌐■_■)'
+description: '什么都可以记录'
 keywords:
-author: yoooopotato
+author: Yoooopotato
 language: zh-CN
 timezone: Asia/Shanghai
 
@@ -40,7 +40,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
